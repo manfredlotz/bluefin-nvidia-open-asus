@@ -55,6 +55,9 @@ dnf5 install -y opensmtpd
 # getting more SELinux related  man pages and documentation for SELinux policy modules
 dnf5 install -y selinux-policy-doc
 
+# flameshot needs grim in Wayland
+dnf5 install -y grim
+
 # Example using COPR with isolated pattern:
 # copr_install_isolated "ublue-os/staging" package-name
 

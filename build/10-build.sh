@@ -55,8 +55,8 @@ dnf5 install -y opensmtpd
 # getting more SELinux related  man pages and documentation for SELinux policy modules
 dnf5 install -y selinux-policy-doc
 
-# flameshot needs grim in Wayland
-dnf5 install -y grim
+# want to mount remote file systems via SSH
+dnf5 install -y fuse-sshfs
 
 # Example using COPR with isolated pattern:
 # copr_install_isolated "ublue-os/staging" package-name

@@ -2,7 +2,7 @@
 # Sign up and add the Repository ID to the right field. Owners fields are optional.
 # Examples: https://artifacthub.io/packages/search?ts_query_web=ublue&sort=relevance&page=1
 
-repositoryID: bluefin-nvidia-open-asus # Fill in with your own credentials
+repositoryID: bluefin-dx-nvidia-open-ml # Fill in with your own credentials
 owners: # (optional, used to claim repository ownership)
-  - name: Jane Containerface
-    email: jane@blueuniversal.com
+  - name: Manfred Lotz
+    email: manfred.lotz@posteo.de

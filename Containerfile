@@ -1,7 +1,7 @@
 ###############################################################################
 # PROJECT NAME CONFIGURATION
 ###############################################################################
-# Name: bluefin-nvidia-open-asus
+# Name: bluefin-dx-nvidia-open-ml
 #
 # IMPORTANT: Change "finpilot" above to your desired project name.
 # This name should be used consistently throughout the repository in:
